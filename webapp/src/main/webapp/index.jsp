@@ -32,6 +32,7 @@
     <br>
   <p>Already have an account? <a href="#">Sign in</a>.</p>
 <p>THANK YOU</p>
+<p>THANK YOU 6</p>
 <p>hello<p>
 <p>good</p>
 <h1>good evening</h1>
