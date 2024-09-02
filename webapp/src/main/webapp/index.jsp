@@ -31,6 +31,7 @@
   <div class="container signin">
     <br>
   <p>Already have an account? <a href="#">Sign in</a>.</p>
+<P>THANK YOU</P>
   </div>
 
    <h1> Thank You </h1>
