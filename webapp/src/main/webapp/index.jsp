@@ -39,8 +39,7 @@
 <h1>night</h1>
 <h1>good evening</h1>
 <h2>good nightytttt</h2>
-<p>THANK YOuuu</p>
-<p>THANK YOU</p>
+<p>how</p>
 <p>hlooooo</p>
 
   </div>
